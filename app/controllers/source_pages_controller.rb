@@ -1,0 +1,2 @@
+class SourcesPageController < ApplicationController
+end
